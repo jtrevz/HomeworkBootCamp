@@ -8,15 +8,16 @@ Existing code had mostly div tags for each section which made code confusing to 
 
 
 BEFORE
-
+assets/images/refactor_original.png
 
 AFTER
+assets/images/refactor_fixed.png
 
 ## Accessibility
 
 Added alt and aria label tags to improve accessibility for disabled users.
 
-PHOTOS
+assets/images/accessibility.png
 
 
 ## Comments
