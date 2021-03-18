@@ -8,16 +8,18 @@ Existing code had mostly div tags for each section which made code confusing to 
 
 
 BEFORE
-assets/images/refactor_original.png
+
+![Caption](/assets/images/refactor_original.png)
 
 AFTER
-assets/images/refactor_fixed.png
+
+![Caption](/assets/images/refactor_fixed.png)
 
 ## Accessibility
 
 Added alt and aria label tags to improve accessibility for disabled users.
 
-assets/images/accessibility.png
+![Caption](/assets/images/accessibility.png)
 
 
 ## Comments
